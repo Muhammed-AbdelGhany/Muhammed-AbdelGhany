@@ -18,13 +18,13 @@
 
 ```dart
 const Mohamed = {
-  role     : "Senior Flutter Developer",
+  role      : "Senior Flutter Developer",
   experience: 5, // years
   appsShipped: "10+",
   usersReached: "90,000+",
-  stack    : ["Flutter", "Dart", "Firebase", "Bloc", "Clean Architecture"],
+  stack     : ["Flutter", "Dart", "Firebase", "Bloc", "Clean Architecture"],
   currentlyAt: "DAF – Digital Access to Finance",
-  openTo   : "Senior & Lead Flutter roles",
+  openTo    : "Senior & Lead Flutter roles",
 };
 ```
 
@@ -84,27 +84,38 @@ Government-affiliated pharmacy dispensing platform for the Egyptian Drug Authori
 
 ## 📊 GitHub Stats
 
+<!-- 
+  NOTE: These widgets use github-profile-summary-cards which is more reliable than github-readme-stats.
+  They pull from your public GitHub data automatically.
+-->
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammed-AbdelGhany&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=4493f8&icon_color=4493f8&text_color=cdd9e5" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammed-AbdelGhany&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4493f8&text_color=cdd9e5&langs_count=6" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammed-AbdelGhany&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammed-AbdelGhany&theme=github_dark&utcOffset=3" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammed-AbdelGhany&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4493f8&fire=f78166&currStreakLabel=4493f8" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammed-AbdelGhany&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammed-AbdelGhany&theme=github_dark" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammed-AbdelGhany&theme=github_dark" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammed-AbdelGhany&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=6"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Muhammed-AbdelGhany&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4493f8&fire=f78166&currStreakLabel=4493f8" width="60%"/>
 
 </div>
 
@@ -114,7 +125,7 @@ Government-affiliated pharmacy dispensing platform for the Egyptian Drug Authori
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-AbdelGhany&bg_color=0d1117&color=4493f8&line=4493f8&point=3fb950&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammed-AbdelGhany&bg_color=0d1117&color=4493f8&line=4493f8&point=3fb950&hide_border=true" width="100%"/>
 
 </div>
 
