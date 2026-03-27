@@ -20,8 +20,8 @@
 const Mohamed = {
   role      : "Senior Flutter Developer",
   experience: 5, // years
-  appsShipped: "10+",
-  usersReached: "90,000+",
+  appsShipped: "20+",
+  usersReached: "100,000+",
   stack     : ["Flutter", "Dart", "Clean Architecture"],
   currentlyAt: "DAF – Digital Access to Finance",
   openTo    : "Senior & Lead Flutter roles",
