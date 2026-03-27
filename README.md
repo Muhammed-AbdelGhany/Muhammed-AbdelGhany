@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Senior Flutter Developer · 5+ Years · 90K+ Users Reached
+### Senior Flutter Developer · 5+ Years · 100K+ Users Reached
 
 📍 Alexandria, Egypt &nbsp;|&nbsp; 🏢 DAF – Digital Solutions &nbsp;|&nbsp; 📱 iOS & Android
 
@@ -22,13 +22,13 @@ const Mohamed = {
   experience: 5, // years
   appsShipped: "10+",
   usersReached: "90,000+",
-  stack     : ["Flutter", "Dart", "Firebase", "Bloc", "Clean Architecture"],
+  stack     : ["Flutter", "Dart", "Clean Architecture"],
   currentlyAt: "DAF – Digital Access to Finance",
   openTo    : "Senior & Lead Flutter roles",
 };
 ```
 
-- 🚀 Shipped **10+ production apps** to the App Store & Google Play
+- 🚀 Shipped **20+ production apps** to the App Store & Google Play
 - 👥 Apps I've built are used by over **90,000 users** across Egypt
 - 🛡️ Reduced app crash rates by **~60%** using Firebase Crashlytics & Sentry
 - ⚡ Improved UI rendering performance by **~40%** through Flutter DevTools profiling
