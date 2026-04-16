@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Senior Flutter Developer · 5+ Years · 100K+ Users Reached
+### Senior Flutter Developer · 5+ Years · 300K+ Users Reached
 
 📍 Alexandria, Egypt &nbsp;|&nbsp; 🏢 DAF – Digital Solutions &nbsp;|&nbsp; 📱 iOS & Android
 
